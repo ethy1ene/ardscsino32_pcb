@@ -1,2 +1,2 @@
 # ardscsino32_pcb
-AIO PCB for ArdSCSIno-stm32, also a schematic included
+Stupid No-brainer AIO 3.5inch HDD width PCB for ArdSCSIno-stm32, also a schematic included
